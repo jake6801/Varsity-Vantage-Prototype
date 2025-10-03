@@ -6,13 +6,8 @@
   ## Running the code
   To run it, first install nodejs if you haven't already (https://nodejs.org/en/download)
 
-  Then cd into project folder (the one that has package.json)
+  cd Varsity-Vantage-Prototype
 
-  Use pnpm to install dependencies (because supabase is a JSR package)
-  
-  npm install -g pnpm
-  
-  pnpm install 
-  
-  pnpm run dev
-  
+  npm install
+
+  npm run dev
