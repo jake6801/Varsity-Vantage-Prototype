@@ -9,7 +9,10 @@
   Then cd into project folder (the one that has package.json)
 
   Use pnpm to install dependencies (because supabase is a JSR package)
+  
   npm install -g pnpm
+  
   pnpm install 
+  
   pnpm run dev
   
