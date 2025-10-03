@@ -4,8 +4,12 @@
   This is a code bundle for Attendance Tracker Web App. The original project is available at https://www.figma.com/design/vvmhrwj3KUgpQ2AhMtch3v/Attendance-Tracker-Web-App.
 
   ## Running the code
+  To run it, first install nodejs if you haven't already (https://nodejs.org/en/download)
 
-  Run `npm i` to install the dependencies.
+  Then cd into project folder (the one that has package.json)
 
-  Run `npm run dev` to start the development server.
+  Use pnpm to install dependencies (because supabase is a JSR package)
+  npm install -g pnpm
+  pnpm install 
+  pnpm run dev
   
